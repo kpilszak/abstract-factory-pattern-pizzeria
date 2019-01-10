@@ -1,4 +1,3 @@
-# abstract-factory-pattern-pizzeria
 <h1 align="right">Abstract Factory Pattern Pizzeria</h1><br>
 
 ## Table of contents
