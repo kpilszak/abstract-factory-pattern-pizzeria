@@ -21,8 +21,8 @@ IDE: Intellij IDEA 2018
 ## Setup
 To run this project, you need to have `jdk` installed.
 Download the `src` folder and open it in a `command prompt` or `terminal`.  
-Type `javac PizzaDrive.java` and press enter to compile.  
-Type `java PizzaDrive` to run program.
+Type `javac .java` and press enter to compile.  
+Type `java ` to run program.
 
 ## Sources
 This project was created as an exercise from Eric Freeman, Elisabeth Freeman, Bert Bates and Kathy Sierra book "Head First. Wzorce projektowe".
