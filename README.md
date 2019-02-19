@@ -19,7 +19,7 @@ Project is created with:
 IDE: Intellij IDEA 2018
 
 ## Setup
-To run this project, you need to have `jdk` installed.
+To run this project, you need to have `jdk` and `jre` installed.
 Download the `src` folder and open it in a `command prompt` or `terminal`.  
 Type `javac PizzaTestDrive.java` and press enter to compile.  
 Type `java PizzaTestDrive` to run program.
